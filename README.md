@@ -1,1 +1,2 @@
-# SIA-Codeigniter
+# Sistem Informasi Akademik
+# Codeigniter
